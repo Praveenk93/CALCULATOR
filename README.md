@@ -1,2 +1,0 @@
-# CALCULATOR
-Program of Calculator
